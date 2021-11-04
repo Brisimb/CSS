@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(187, 38, 38);
+}
+.text{
+    color:rgb(105, 18, 18);
+}
+
+.lista{
+    color: khaki;
+}
+
+.list-item{
+    color: initial;
+}
+
+a{
+    color: initial;
+}
