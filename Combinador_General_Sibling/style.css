@@ -1,0 +1,4 @@
+h2 ~ p{
+    color: red; /*se aplica el rojo a las etiquetas <p> que tengan como hermano 
+    general la etiqueta h2*/
+}
